@@ -23,5 +23,7 @@ import pandas as pd
 c = pd.read_pickle('https://github.com/QuantHero-python/twstock_db/raw/main/close.pkl') # 收盤價
 o = pd.read_pickle('https://github.com/QuantHero-python/twstock_db/raw/main/open.pkl') # 開盤價
 v = pd.read_pickle('https://github.com/QuantHero-python/twstock_db/raw/main/volume.pkl') # 成交股數
+fi = pd.read_pickle('https://github.com/QuantHero-python/twstock_db/raw/main/foreign_investors.pkl') # 外資買賣超股數
+it = pd.read_pickle('https://github.com/QuantHero-python/twstock_db/raw/main/investment_trust.pkl') # 投信買賣超股數
 rev = pd.read_pickle('https://github.com/QuantHero-python/twstock_db/raw/main/rev.pkl') # 當月營收
 ```
