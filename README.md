@@ -1,4 +1,4 @@
-# **台股歷史資料庫**
+## **台股歷史資料庫**
 [![Version](https://img.shields.io/badge/version-1.0.0-orange.svg?logo=)]() 
 [![Status](https://img.shields.io/badge/status-stable-brightgreen.svg?logo=)]() 
 [![Powered by](https://img.shields.io/badge/powered_by-FinMac-orange.svg?style=flat&colorA=E1523D&colorB=007D8A)](https://www.facebook.com/groups/tw.tradingview) 
@@ -14,7 +14,7 @@ QuantHero免費提供台股金融數據(項目持續更新中)，包含
 
 --------
 
-# **快速開始**
+## **快速開始**
 
 ```py
 import pandas as pd
