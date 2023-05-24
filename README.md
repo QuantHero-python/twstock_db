@@ -27,3 +27,8 @@ fi = pd.read_pickle('https://github.com/QuantHero-python/twstock_db/raw/main/for
 it = pd.read_pickle('https://github.com/QuantHero-python/twstock_db/raw/main/investment_trust.pkl') # 投信買賣超股數
 rev = pd.read_pickle('https://github.com/QuantHero-python/twstock_db/raw/main/rev.pkl') # 當月營收
 ```
+
+------
+
+## **免責聲明**
+資料庫提供的所有內容均用於程式教學、非商業用途。資料僅供參考，使用者依本資料交易發生交易損失需自行負責，本團隊不對資料內容錯誤、更新延誤或傳輸中斷負任何責任。
