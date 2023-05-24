@@ -4,7 +4,7 @@
 [![Powered by](https://img.shields.io/badge/powered_by-FinMac-orange.svg?style=flat&colorA=E1523D&colorB=007D8A)](https://www.facebook.com/groups/tw.tradingview) 
 [![Join](https://img.shields.io/badge/join-QuantHero-blue.svg?logo=facebook)](https://www.facebook.com/groups/data.analysis.investment) 
 
-QuantHero免費提供台股金融數據包含
+QuantHero免費提供台股金融數據(項目持續更新中)，包含
 
 * 技術面 : 每日收盤價、開盤價、成交股數
 * 基本面 : 當月營收
