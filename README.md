@@ -12,16 +12,7 @@ QuantHero免費提供台股金融數據(項目持續更新中)，包含
 
 `每日更新資料庫，不需自行蒐集數據即可開始分析`
 
---------
+------
 
-## **快速開始**
-
-```py
-import pandas as pd
-
-# 取得台股數據
-c = pd.read_pickle('https://github.com/QuantHero-python/twstock_db/raw/main/close.pkl') # 收盤價
-o = pd.read_pickle('https://github.com/QuantHero-python/twstock_db/raw/main/open.pkl') # 開盤價
-v = pd.read_pickle('https://github.com/QuantHero-python/twstock_db/raw/main/volume.pkl') # 成交股數
-rev = pd.read_pickle('https://github.com/QuantHero-python/twstock_db/raw/main/rev.pkl') # 當月營收
-```
+## **免責聲明**
+資料庫提供的金融數據為統計公開一般性財經數據之結果，主要用於程式教學、非商業用途。資料僅供參考，使用者依資料發生交易損失需自行負責，請勿視為買賣金融商品或其他投資之建議或邀約。QuantHero不為數據內容錯誤、更新延誤或傳輸中斷負任何責任。
